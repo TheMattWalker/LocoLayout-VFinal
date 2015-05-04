@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>logomed.png</file>
+        <file>icon.ico</file>
+        <file>handicon.png</file>
+        <file>selecticon.png</file>
+        <file>reseticon.png</file>
+        <file>logotransparent.png</file>
+    </qresource>
+</RCC>
